@@ -1,4 +1,4 @@
-<h1>"Website PCB"</h1>
+<h1>"Website Detection PCB"</h1>
 
 <p>view detection pcb pass or reject on website</p>
 
