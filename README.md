@@ -15,7 +15,7 @@ py manage.py runserver #for run server website
 
 
 #home
-![Alt Text](https://github.com/fransiskuscyh/webs-pcb/blob/main/img/home.png)
+![Alt Text](img/home.png)
 
 #pass
 ![Alt Text](https://github.com/fransiskuscyh/webs-pcb/blob/main/img/pass.png)
