@@ -15,10 +15,10 @@ py manage.py runserver #for run server website
 
 
 #home
-![image](https://github.com/user-attachments/assets/47dffb25-9df8-410b-8d73-c4a6bccf5c0f)
+![Alt Text](https://github.com/fransiskuscyh/webs-pcb/blob/main/img/home.png)
 
 #pass
-![image](https://github.com/user-attachments/assets/d8c1a87b-bff6-40d1-acc7-5aae360b45e7)
+![Alt Text](https://github.com/fransiskuscyh/webs-pcb/blob/main/img/pass.png)
 
 #reject
-![image](https://github.com/user-attachments/assets/374d8749-593c-4f02-9154-fc13ccabb1d2)
+![Alt Text](https://github.com/fransiskuscyh/webs-pcb/blob/main/img/reject.png)
